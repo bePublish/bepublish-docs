@@ -48,8 +48,13 @@
       },
       {
         "language": "vi",
-        "pages": [
-          "quickstart"
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "quickstart"
+            ]
+          }
         ]
       }
     ]
